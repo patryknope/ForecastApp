@@ -1,4 +1,4 @@
-package com.paszkowski.volvoapp.configuration;
+package com.paszkowski.forecastapp.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

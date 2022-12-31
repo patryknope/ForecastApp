@@ -1,7 +1,7 @@
-package com.paszkowski.volvoapp.controller;
+package com.paszkowski.forecastapp.controller;
 
-import com.paszkowski.volvoapp.model.ForecastResponse;
-import com.paszkowski.volvoapp.service.ForecastService;
+import com.paszkowski.forecastapp.model.ForecastResponse;
+import com.paszkowski.forecastapp.service.ForecastService;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

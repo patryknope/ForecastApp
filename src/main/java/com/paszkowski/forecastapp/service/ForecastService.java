@@ -1,9 +1,9 @@
-package com.paszkowski.volvoapp.service;
+package com.paszkowski.forecastapp.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.paszkowski.volvoapp.model.ForecastDay;
-import com.paszkowski.volvoapp.model.ForecastBase;
-import com.paszkowski.volvoapp.model.ForecastResponse;
+import com.paszkowski.forecastapp.model.ForecastDay;
+import com.paszkowski.forecastapp.model.ForecastBase;
+import com.paszkowski.forecastapp.model.ForecastResponse;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;

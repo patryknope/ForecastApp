@@ -1,4 +1,4 @@
-package com.paszkowski.volvoapp.model;
+package com.paszkowski.forecastapp.model;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
