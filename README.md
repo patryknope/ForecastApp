@@ -24,7 +24,7 @@ The API has a single endpoint, /forecast, which returns a list of forecast objec
 ## Usage
 To use the API, send a GET request to the /forecast endpoint:
 
-Copy code
+Copy code:
 
 `curl http://localhost:8080/forecast`
 
